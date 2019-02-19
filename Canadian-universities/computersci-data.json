@@ -1,0 +1,2780 @@
+[
+    {
+        "data": {
+            "id": "65",
+            "label": "U of Montreal"
+        },
+        "position": {
+            "x": -3.6739403974420595e-14,
+            "y": 200.0
+        },
+        "group": "nodes",
+        "selectable": true,
+        "selected": false,
+        "locked": false,
+        "grabbable": true,
+        "classes": "rc"
+    },
+    {
+        "data": {
+            "id": "46",
+            "label": "U of British Columbia"
+        },
+        "position": {
+            "x": 117.55705045849459,
+            "y": 161.8033988749895
+        },
+        "group": "nodes",
+        "selectable": true,
+        "selected": false,
+        "locked": false,
+        "grabbable": true,
+        "classes": "rc"
+    },
+    {
+        "data": {
+            "id": "78",
+            "label": "McMaster U"
+        },
+        "position": {
+            "x": 190.2113032590307,
+            "y": 61.80339887498953
+        },
+        "group": "nodes",
+        "selectable": true,
+        "selected": false,
+        "locked": false,
+        "grabbable": true,
+        "classes": "rc"
+    },
+    {
+        "data": {
+            "id": "80",
+            "label": "U of Alberta"
+        },
+        "position": {
+            "x": 190.21130325903073,
+            "y": -61.80339887498943
+        },
+        "group": "nodes",
+        "selectable": true,
+        "selected": false,
+        "locked": false,
+        "grabbable": true,
+        "classes": "rc"
+    },
+    {
+        "data": {
+            "id": "21",
+            "label": "U of Toronto"
+        },
+        "position": {
+            "x": 117.55705045849467,
+            "y": -161.80339887498945
+        },
+        "group": "nodes",
+        "selectable": true,
+        "selected": false,
+        "locked": false,
+        "grabbable": true,
+        "classes": "rc"
+    },
+    {
+        "data": {
+            "id": "55",
+            "label": "U of Waterloo"
+        },
+        "position": {
+            "x": 1.2246467991473532e-14,
+            "y": -200.0
+        },
+        "group": "nodes",
+        "selectable": true,
+        "selected": false,
+        "locked": false,
+        "grabbable": true,
+        "classes": "rc"
+    },
+    {
+        "data": {
+            "id": "57",
+            "label": "McGill U"
+        },
+        "position": {
+            "x": -117.5570504584946,
+            "y": -161.80339887498948
+        },
+        "group": "nodes",
+        "selectable": true,
+        "selected": false,
+        "locked": false,
+        "grabbable": true,
+        "classes": "rc"
+    },
+    {
+        "data": {
+            "id": "91",
+            "label": "U of Calgary"
+        },
+        "position": {
+            "x": -190.2113032590307,
+            "y": -61.803398874989504
+        },
+        "group": "nodes",
+        "selectable": true,
+        "selected": false,
+        "locked": false,
+        "grabbable": true,
+        "classes": "rc"
+    },
+    {
+        "data": {
+            "id": "93",
+            "label": "U of Western Ontario"
+        },
+        "position": {
+            "x": -190.21130325903073,
+            "y": 61.803398874989455
+        },
+        "group": "nodes",
+        "selectable": true,
+        "selected": false,
+        "locked": false,
+        "grabbable": true,
+        "classes": "rc"
+    },
+    {
+        "data": {
+            "id": "95",
+            "label": "Queens U"
+        },
+        "position": {
+            "x": -117.55705045849464,
+            "y": 161.80339887498945
+        },
+        "group": "nodes",
+        "selectable": true,
+        "selected": false,
+        "locked": false,
+        "grabbable": true,
+        "classes": "rc"
+    },
+    {
+        "data": {
+            "id": 11,
+            "source": "65",
+            "target": "65",
+            "key": 0,
+            "rank": "Asst",
+            "loop": -180
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 12,
+            "source": "65",
+            "target": "65",
+            "key": 1,
+            "rank": "Assoc",
+            "loop": -180
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 13,
+            "source": "65",
+            "target": "65",
+            "key": 2,
+            "rank": "Assoc",
+            "loop": -180
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 14,
+            "source": "65",
+            "target": "65",
+            "key": 3,
+            "rank": "Assoc",
+            "loop": -180
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 15,
+            "source": "65",
+            "target": "65",
+            "key": 4,
+            "rank": "Assoc",
+            "loop": -180
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 16,
+            "source": "65",
+            "target": "65",
+            "key": 5,
+            "rank": "Assoc",
+            "loop": -180
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 17,
+            "source": "65",
+            "target": "65",
+            "key": 6,
+            "rank": "Full",
+            "loop": -180
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 18,
+            "source": "65",
+            "target": "65",
+            "key": 7,
+            "rank": "Full",
+            "loop": -180
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 19,
+            "source": "65",
+            "target": "65",
+            "key": 8,
+            "rank": "Full",
+            "loop": -180
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 20,
+            "source": "65",
+            "target": "65",
+            "key": 9,
+            "rank": "Full",
+            "loop": -180
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 21,
+            "source": "65",
+            "target": "65",
+            "key": 10,
+            "rank": "Full",
+            "loop": -180
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 22,
+            "source": "65",
+            "target": "65",
+            "key": 11,
+            "rank": "Full",
+            "loop": -180
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 23,
+            "source": "65",
+            "target": "65",
+            "key": 12,
+            "rank": "Full",
+            "loop": -180
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 24,
+            "source": "65",
+            "target": "80",
+            "key": 0,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "haystack"
+    },
+    {
+        "data": {
+            "id": 25,
+            "source": "46",
+            "target": "65",
+            "key": 0,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "haystack"
+    },
+    {
+        "data": {
+            "id": 26,
+            "source": "46",
+            "target": "46",
+            "key": 0,
+            "rank": "Assoc",
+            "loop": 90
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 27,
+            "source": "46",
+            "target": "46",
+            "key": 1,
+            "rank": "Full",
+            "loop": 90
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 28,
+            "source": "46",
+            "target": "80",
+            "key": 0,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "haystack"
+    },
+    {
+        "data": {
+            "id": 29,
+            "source": "46",
+            "target": "55",
+            "key": 0,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 30,
+            "source": "46",
+            "target": "55",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 31,
+            "source": "46",
+            "target": "55",
+            "key": 2,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 32,
+            "source": "46",
+            "target": "57",
+            "key": 0,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 33,
+            "source": "46",
+            "target": "57",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 34,
+            "source": "46",
+            "target": "91",
+            "key": 0,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 35,
+            "source": "46",
+            "target": "91",
+            "key": 1,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 36,
+            "source": "46",
+            "target": "91",
+            "key": 2,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 37,
+            "source": "46",
+            "target": "91",
+            "key": 3,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 38,
+            "source": "46",
+            "target": "91",
+            "key": 4,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 39,
+            "source": "46",
+            "target": "93",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 40,
+            "source": "46",
+            "target": "93",
+            "key": 1,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 41,
+            "source": "46",
+            "target": "95",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 42,
+            "source": "46",
+            "target": "95",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 43,
+            "source": "78",
+            "target": "65",
+            "key": 0,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "haystack"
+    },
+    {
+        "data": {
+            "id": 44,
+            "source": "78",
+            "target": "78",
+            "key": 0,
+            "rank": "Assoc",
+            "loop": 90
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 45,
+            "source": "80",
+            "target": "21",
+            "key": 0,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "haystack"
+    },
+    {
+        "data": {
+            "id": 46,
+            "source": "80",
+            "target": "55",
+            "key": 0,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 47,
+            "source": "80",
+            "target": "55",
+            "key": 1,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 48,
+            "source": "80",
+            "target": "80",
+            "key": 0,
+            "rank": "Full",
+            "loop": 90
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 49,
+            "source": "80",
+            "target": "91",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 50,
+            "source": "80",
+            "target": "91",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 51,
+            "source": "80",
+            "target": "91",
+            "key": 2,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 52,
+            "source": "80",
+            "target": "95",
+            "key": 0,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "haystack"
+    },
+    {
+        "data": {
+            "id": 53,
+            "source": "21",
+            "target": "65",
+            "key": 0,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 54,
+            "source": "21",
+            "target": "65",
+            "key": 1,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 55,
+            "source": "21",
+            "target": "65",
+            "key": 2,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 56,
+            "source": "21",
+            "target": "46",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 57,
+            "source": "21",
+            "target": "46",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 58,
+            "source": "21",
+            "target": "46",
+            "key": 2,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 59,
+            "source": "21",
+            "target": "46",
+            "key": 3,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 60,
+            "source": "21",
+            "target": "46",
+            "key": 4,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 61,
+            "source": "21",
+            "target": "78",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 62,
+            "source": "21",
+            "target": "78",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 63,
+            "source": "21",
+            "target": "78",
+            "key": 2,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 64,
+            "source": "21",
+            "target": "78",
+            "key": 3,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 65,
+            "source": "21",
+            "target": "78",
+            "key": 4,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 66,
+            "source": "21",
+            "target": "80",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 67,
+            "source": "21",
+            "target": "80",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 68,
+            "source": "21",
+            "target": "80",
+            "key": 2,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 69,
+            "source": "21",
+            "target": "80",
+            "key": 3,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 70,
+            "source": "21",
+            "target": "80",
+            "key": 4,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 71,
+            "source": "21",
+            "target": "80",
+            "key": 5,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 72,
+            "source": "21",
+            "target": "80",
+            "key": 6,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 73,
+            "source": "21",
+            "target": "80",
+            "key": 7,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 74,
+            "source": "21",
+            "target": "21",
+            "key": 0,
+            "rank": "Asst",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 75,
+            "source": "21",
+            "target": "21",
+            "key": 1,
+            "rank": "Asst",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 76,
+            "source": "21",
+            "target": "21",
+            "key": 2,
+            "rank": "Asst",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 77,
+            "source": "21",
+            "target": "21",
+            "key": 3,
+            "rank": "Assoc",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 78,
+            "source": "21",
+            "target": "21",
+            "key": 4,
+            "rank": "Full",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 79,
+            "source": "21",
+            "target": "21",
+            "key": 5,
+            "rank": "Full",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 80,
+            "source": "21",
+            "target": "21",
+            "key": 6,
+            "rank": "Full",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 81,
+            "source": "21",
+            "target": "21",
+            "key": 7,
+            "rank": "Full",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 82,
+            "source": "21",
+            "target": "21",
+            "key": 8,
+            "rank": "Full",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 83,
+            "source": "21",
+            "target": "21",
+            "key": 9,
+            "rank": "Full",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 84,
+            "source": "21",
+            "target": "21",
+            "key": 10,
+            "rank": "Full",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 85,
+            "source": "21",
+            "target": "21",
+            "key": 11,
+            "rank": "Full",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 86,
+            "source": "21",
+            "target": "21",
+            "key": 12,
+            "rank": "Full",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 87,
+            "source": "21",
+            "target": "21",
+            "key": 13,
+            "rank": "Full",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 88,
+            "source": "21",
+            "target": "21",
+            "key": 14,
+            "rank": "Full",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 89,
+            "source": "21",
+            "target": "21",
+            "key": 15,
+            "rank": "Full",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 90,
+            "source": "21",
+            "target": "21",
+            "key": 16,
+            "rank": "Full",
+            "loop": 45
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 91,
+            "source": "21",
+            "target": "55",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 92,
+            "source": "21",
+            "target": "55",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 93,
+            "source": "21",
+            "target": "55",
+            "key": 2,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 94,
+            "source": "21",
+            "target": "55",
+            "key": 3,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 95,
+            "source": "21",
+            "target": "55",
+            "key": 4,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 96,
+            "source": "21",
+            "target": "55",
+            "key": 5,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 97,
+            "source": "21",
+            "target": "55",
+            "key": 6,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 98,
+            "source": "21",
+            "target": "55",
+            "key": 7,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 99,
+            "source": "21",
+            "target": "55",
+            "key": 8,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 100,
+            "source": "21",
+            "target": "55",
+            "key": 9,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 101,
+            "source": "21",
+            "target": "55",
+            "key": 10,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 102,
+            "source": "21",
+            "target": "55",
+            "key": 11,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 103,
+            "source": "21",
+            "target": "55",
+            "key": 12,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 104,
+            "source": "21",
+            "target": "55",
+            "key": 13,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 105,
+            "source": "21",
+            "target": "57",
+            "key": 0,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 106,
+            "source": "21",
+            "target": "57",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 107,
+            "source": "21",
+            "target": "57",
+            "key": 2,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 108,
+            "source": "21",
+            "target": "91",
+            "key": 0,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 109,
+            "source": "21",
+            "target": "91",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 110,
+            "source": "21",
+            "target": "91",
+            "key": 2,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 111,
+            "source": "21",
+            "target": "93",
+            "key": 0,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 112,
+            "source": "21",
+            "target": "93",
+            "key": 1,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 113,
+            "source": "21",
+            "target": "95",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 114,
+            "source": "21",
+            "target": "95",
+            "key": 1,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 115,
+            "source": "21",
+            "target": "95",
+            "key": 2,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 116,
+            "source": "21",
+            "target": "95",
+            "key": 3,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 117,
+            "source": "21",
+            "target": "95",
+            "key": 4,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 118,
+            "source": "21",
+            "target": "95",
+            "key": 5,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 119,
+            "source": "55",
+            "target": "46",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "haystack"
+    },
+    {
+        "data": {
+            "id": 120,
+            "source": "55",
+            "target": "80",
+            "key": 0,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 121,
+            "source": "55",
+            "target": "80",
+            "key": 1,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 122,
+            "source": "55",
+            "target": "80",
+            "key": 2,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 123,
+            "source": "55",
+            "target": "80",
+            "key": 3,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 124,
+            "source": "55",
+            "target": "80",
+            "key": 4,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 125,
+            "source": "55",
+            "target": "80",
+            "key": 5,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 126,
+            "source": "55",
+            "target": "55",
+            "key": 0,
+            "rank": "Assoc",
+            "loop": 0
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 127,
+            "source": "55",
+            "target": "55",
+            "key": 1,
+            "rank": "Assoc",
+            "loop": 0
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 128,
+            "source": "55",
+            "target": "55",
+            "key": 2,
+            "rank": "Assoc",
+            "loop": 0
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 129,
+            "source": "55",
+            "target": "55",
+            "key": 3,
+            "rank": "Full",
+            "loop": 0
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 130,
+            "source": "55",
+            "target": "55",
+            "key": 4,
+            "rank": "Full",
+            "loop": 0
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 131,
+            "source": "55",
+            "target": "55",
+            "key": 5,
+            "rank": "Full",
+            "loop": 0
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 132,
+            "source": "55",
+            "target": "55",
+            "key": 6,
+            "rank": "Full",
+            "loop": 0
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 133,
+            "source": "55",
+            "target": "55",
+            "key": 7,
+            "rank": "Full",
+            "loop": 0
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 134,
+            "source": "55",
+            "target": "57",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 135,
+            "source": "55",
+            "target": "57",
+            "key": 1,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 136,
+            "source": "55",
+            "target": "91",
+            "key": 0,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 137,
+            "source": "55",
+            "target": "91",
+            "key": 1,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 138,
+            "source": "55",
+            "target": "93",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 139,
+            "source": "55",
+            "target": "93",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 140,
+            "source": "55",
+            "target": "93",
+            "key": 2,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 141,
+            "source": "55",
+            "target": "93",
+            "key": 3,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 142,
+            "source": "55",
+            "target": "95",
+            "key": 0,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 143,
+            "source": "55",
+            "target": "95",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 144,
+            "source": "55",
+            "target": "95",
+            "key": 2,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 145,
+            "source": "55",
+            "target": "95",
+            "key": 3,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 146,
+            "source": "57",
+            "target": "55",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 147,
+            "source": "57",
+            "target": "55",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 148,
+            "source": "57",
+            "target": "57",
+            "key": 0,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 149,
+            "source": "57",
+            "target": "57",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 150,
+            "source": "57",
+            "target": "57",
+            "key": 2,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 151,
+            "source": "57",
+            "target": "57",
+            "key": 3,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 152,
+            "source": "57",
+            "target": "57",
+            "key": 4,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 153,
+            "source": "57",
+            "target": "65",
+            "key": 0,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "haystack"
+    },
+    {
+        "data": {
+            "id": 154,
+            "source": "57",
+            "target": "78",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "haystack"
+    },
+    {
+        "data": {
+            "id": 155,
+            "source": "57",
+            "target": "80",
+            "key": 0,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "haystack"
+    },
+    {
+        "data": {
+            "id": 156,
+            "source": "57",
+            "target": "95",
+            "key": 0,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 157,
+            "source": "57",
+            "target": "95",
+            "key": 1,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 158,
+            "source": "57",
+            "target": "95",
+            "key": 2,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 159,
+            "source": "91",
+            "target": "55",
+            "key": 0,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 160,
+            "source": "91",
+            "target": "55",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 161,
+            "source": "91",
+            "target": "91",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 162,
+            "source": "91",
+            "target": "91",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 163,
+            "source": "91",
+            "target": "91",
+            "key": 2,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 164,
+            "source": "91",
+            "target": "91",
+            "key": 3,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 165,
+            "source": "93",
+            "target": "55",
+            "key": 0,
+            "rank": "Full"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "haystack"
+    },
+    {
+        "data": {
+            "id": 166,
+            "source": "93",
+            "target": "93",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 167,
+            "source": "93",
+            "target": "93",
+            "key": 1,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 168,
+            "source": "93",
+            "target": "93",
+            "key": 2,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 169,
+            "source": "95",
+            "target": "55",
+            "key": 0,
+            "rank": "Assoc"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "haystack"
+    },
+    {
+        "data": {
+            "id": 170,
+            "source": "95",
+            "target": "95",
+            "key": 0,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    },
+    {
+        "data": {
+            "id": 171,
+            "source": "95",
+            "target": "95",
+            "key": 1,
+            "rank": "Asst"
+        },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "classes": "bezier"
+    }
+]
