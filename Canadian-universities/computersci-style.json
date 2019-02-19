@@ -1,0 +1,102 @@
+[
+    {
+        "selector": "node[label]",
+        "style": {
+            "label": "data(label)",
+            "width": "20px",
+            "height": "20px",
+            "color": "black",
+            "font-size": "16px",
+            "background-color": "#3a3c7d",
+            "line-color": "#C8C8C8"
+        }
+    },
+    {
+        "selector": ".lb",
+        "style": {
+            "text-halign": "left",
+            "text-valign": "bottom"
+        }
+    },
+    {
+        "selector": ".rb",
+        "style": {
+            "text-halign": "right",
+            "text-valign": "bottom"
+        }
+    },
+    {
+        "selector": ".rc",
+        "style": {
+            "text-halign": "right",
+            "text-valign": "center"
+        }
+    },
+    {
+        "selector": "edge",
+        "style": {
+            "width": 1.5
+        }
+    },
+    {
+        "selector": ".bezier",
+        "style": {
+            "target-arrow-shape": "triangle",
+            "curve-style": "bezier",
+            "control-point-step-size": 25
+        }
+    },
+    {
+        "selector": ".haystack",
+        "style": {
+            "curve-style": "haystack",
+            "haystack-radius": 0,
+            "target-arrow-shape": "triangle"
+        }
+    },
+    {
+        "selector": "[rank='Asst']",
+        "style": {
+            "line-color": "#e763fa",
+            "target-arrow-color": "#e763fa"
+        }
+    },
+    {
+        "selector": "[rank='Assoc']",
+        "style": {
+            "line-color": "#ab63fa",
+            "target-arrow-color": "#ab63fa"
+        }
+    },
+    {
+        "selector": "[rank='Full']",
+        "style": {
+            "line-color": "#636efa",
+            "target-arrow-color": "#636efa"
+        }
+    },
+    {
+        "selector": "[loop=90]",
+        "style": {
+            "loop-direction": "90deg"
+        }
+    },
+    {
+        "selector": "[loop=-180]",
+        "style": {
+            "loop-direction": "-180deg"
+        }
+    },
+    {
+        "selector": "[loop=0]",
+        "style": {
+            "loop-direction": "0deg"
+        }
+    },
+    {
+        "selector": "[loop=45]",
+        "style": {
+            "loop-direction": "45deg"
+        }
+    }
+]
